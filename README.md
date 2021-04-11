@@ -8,6 +8,10 @@ Using students_complete.csv and schools_complete.csv, we were able to draw an an
 - How is the district summary affected?
   - The following images depict the `district_summary_df` for the original and modified codes, respectfully.
 
+<img width="461" alt="district summary df before" src="https://user-images.githubusercontent.com/78509850/114321973-9cd5d080-9ad2-11eb-91c6-ba5c943560c0.png">
+<img width="459" alt="district summary df after" src="https://user-images.githubusercontent.com/78509850/114321975-a0695780-9ad2-11eb-89c5-fb3ede363325.png">
+
+
 - How is the school summary affected?
   - 
   
